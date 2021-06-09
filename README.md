@@ -1,7 +1,7 @@
 # Backend Assignment
 Hi! 👋
 
-Whether you have been sent here by one of our recruitment ninjas, or stumbled upon it by accident, we're excited you're here! We are creating the innovative platform for the creatives industry.
+Whether you have been sent here by one of our recruitment ninjas, or stumbled upon it by accident, we're excited you're here! We are creating an innovative platform for the creative industry.
 
 
 # The Challenge
@@ -38,6 +38,8 @@ Whether you have been sent here by one of our recruitment ninjas, or stumbled up
 
 ## Submissions
 It's completely up to you to decide how to deliver the task. GitHub, Bitbucket or any other service that's easily accessible works great. You can also upload it to e.g. Google Drive or Dropbox if that's your cup of tea. Try to avoid email attachments though.
+
+**Do not clone this repository, just fork it.** 
 
 Once done, please drop your contact person from Homejam an email with the link to the task. You can also keep in touch with us from recruitment portals like linkedin, internshala, etc.
 
