@@ -36,10 +36,10 @@ Whether you have been sent here by one of our recruitment ninjas, or stumbled up
 - Naming conventions,
 
 
-## Submissions
-It's completely up to you to decide how to deliver the task. GitHub, Bitbucket or any other service that's easily accessible works great. You can also upload it to e.g. Google Drive or Dropbox if that's your cup of tea. Try to avoid email attachments though.
+**Do not clone, or fork this repository, create your own.**
 
-**Do not clone this repository, just fork it.** 
+## Submissions
+It's completely up to you to decide how to deliver the task. GitHub, Bitbucket or any other service that's easily accessible works great. You can also upload it to e.g. Google Drive or Dropbox if that's your cup of tea. Try to avoid email attachments though. 
 
 Once done, please drop your contact person from Homejam an email with the link to the task. You can also keep in touch with us from recruitment portals like linkedin, internshala, etc.
 
